@@ -34,3 +34,4 @@
     d. The game will display the player-robot's remaining health points.
 
 ## 8. The game will end.
+/Users/minmaung/projects/robot-gladiators/500-variable-syntax.jpeg
